@@ -6,3 +6,6 @@ A collection of beautiful, math-related visualizations
 
 * [Grover’s Quantum Search Algorithm](http://twistedoakstudios.com/blog/Post2644_grovers-quantum-search-algorithm)  
   "Grover’s algorithm is a quantum search algorithm that runs quadratically faster than any equivalent classical algorithm. With a budget of a million operations, a classical algorithm is limited to searching through about a million (unsorted, unstructured) possibilities. Grover’s algorithm, on the other hand, can use those million operations to search through hundreds of billions of possibilities"
+
+* [How to Fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/)
+  "...complex numbers are arrows that like to turn, which can be made to behave like numbers: we can add and multiply them, because we can come up with a consistent rule for doing so."
